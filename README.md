@@ -111,3 +111,4 @@ Guidelines
 License
 -------
 Hours is distributed under the MIT license.
+# Hours
